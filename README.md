@@ -2,7 +2,7 @@
 
 `Chiffre` gasigasy na koa hoe `Système de chiffrement par substitution` tsotra kely fampiasan'ny sasany eto Dago indraindray.
 
-Mampahatsiahy ny fahazazana ary indrindra indrindra indrindra ny [Code César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) izay `abidy` hianaran'ny rehetra mandalina *cryptographie*/*cryptanalyse* eo ampiandohana.
+Mampahatsiahy ny fahazazana ary indrindra indrindra ny [Code César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) izay `abidy` hianaran'ny rehetra mandalina *cryptographie*/*cryptanalyse* eo ampiandohana.
 
 Nitsidika an'i **Serasera Malagasy** dia sendra azy, tsy naharitra dia niakatra ny aingampanahy... 😆😆😆
 
