@@ -18,8 +18,6 @@ pub fn arb(text: &str) -> String {
         .collect()
 }
 
-
-```
 fn main() {
     let str_in: &str = "LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E";
 
