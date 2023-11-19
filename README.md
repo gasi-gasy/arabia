@@ -27,7 +27,7 @@ fn main() {
     let str_in: &str = "LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E";
 
     println!("Teny adika  <<<: {}", str_in);
-    println!(">>> Dika mazava: {} >>>", arb(str_in));
+    println!(">>> Dika mazava: {}", arb(str_in));
 }
 ```
 
@@ -35,6 +35,6 @@ Raha hanadrana azy dia ampidiro hoe `cargo run` dia tsindrio `return`.
 
 ```
 Teny adika  <<<: LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E
->>> Dika mazava: MIARAHABA ANAREO REHETRA TRATRY NY TAONA E >>>
+>>> Dika mazava: MIARAHABA ANAREO REHETRA TRATRY NY TAONA E
 ```
 Marihana fa sady fanaovana _encodage_ no ampiasana koa amin'ny _décodage_ `pub fn arb(text: &str) -> String`. Pimaso ho an'ireo namana rehetra mankafy Marika: Involution, na Fonction involutive no resaka izany 👀
