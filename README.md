@@ -26,6 +26,7 @@ fn main() {
 }
 ```
 
+Raha hanadrana azy dia ampidiro hoe `cargo run` dia tsindrio `return`.
 
 ```
 Teny adika  <<<: LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E
