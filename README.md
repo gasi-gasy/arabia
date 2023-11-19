@@ -4,6 +4,7 @@
 
 Mampahatsiahy ny fahazazana ary indrindra indrindra indrindra ny [Code César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) izay `abidy` hianaran'ny rehetra mandalina *cryptographie*/*cryptanalyse* eo ampiandohana.
 
+<p align="center"><img src="screenshot.png"></p>
 
 ```rust
 pub fn arb(text: &str) -> String {
