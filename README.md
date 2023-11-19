@@ -1,6 +1,6 @@
 # arabia
 
-`Chiffre` gasigasy na koa hoe `Système de chiffrement par substitution` tsotra kely fampiasan'ny sasany eto Dago indraindray.
+`Chiffre` gasigasy na koa hoe `Système de chiffrement par substitution` tsotra kely sady fampiasan'ny sasany eto Dago indraindray.
 
 Mampahatsiahy ny fahazazana ary indrindra indrindra ny [Code César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) izay `fianarana mamindra` ho an'ireo rehetra mandalina *cryptographie*/*cryptanalyse* eo ampiandohana.
 
