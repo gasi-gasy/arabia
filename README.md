@@ -25,6 +25,9 @@ fn main() {
     println!(">>> Dika mazava: {} >>>", arb(str_in));
 }
 ```
+
+
+```
 Teny adika  <<<: LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E
 >>> Dika mazava: MIARAHABA ANAREO REHETRA TRATRY NY TAONA E >>>
 ```
