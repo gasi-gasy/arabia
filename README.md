@@ -32,4 +32,4 @@ Raha hanadrana azy dia ampidiro hoe `cargo run` dia tsindrio `return`.
 Teny adika  <<<: LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E
 >>> Dika mazava: MIARAHABA ANAREO REHETRA TRATRY NY TAONA E >>>
 ```
-Marihana fa sady fanaovana encodage no ampiasana koa amin'ny décodage `pub fn arb(text: &str) -> String`. Pimaso ho an'ireo rehetra mankafy Marika: Involution, na Fonction involutive no resaka izany 👀
+Marihana fa sady fanaovana _encodage_ no ampiasana koa amin'ny _décodage_ `pub fn arb(text: &str) -> String`. Pimaso ho an'ireo rehetra mankafy Marika: Involution, na Fonction involutive no resaka izany 👀
