@@ -4,6 +4,8 @@
 
 Mampahatsiahy ny fahazazana ary indrindra indrindra indrindra ny [Code César](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage) izay `abidy` hianaran'ny rehetra mandalina *cryptographie*/*cryptanalyse* eo ampiandohana.
 
+Nitsidika an'i **Serasera Malagasy** dia sendra azy, tsy naharitra dia niakatra ny aingampanahy... 😆😆😆
+
 <p align="center"><img src="screenshot.png"></p>
 
 ```rust
