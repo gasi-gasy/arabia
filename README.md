@@ -8,6 +8,8 @@ Nitsidika an'i **Serasera Malagasy** dia sendra azy, tsy naharitra dia niakatra 
 
 <p align="center"><img src="screenshot.png"></p>
 
+Miala any ary ny code...
+
 ```rust
 pub fn arb(text: &str) -> String {
     let input  = "BDFGHJKLMNPRSTVZbdfghjklmnprstvz";
