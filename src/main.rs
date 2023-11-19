@@ -14,5 +14,5 @@ fn main() {
     let str_in: &str = "LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E";
 
     println!("Teny adika  <<<: {}", str_in);
-    println!(">>> Dika mazava: {} >>>", arb(str_in));
+    println!(">>> Dika mazava: {}", arb(str_in));
 }
