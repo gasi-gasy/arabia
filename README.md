@@ -8,7 +8,7 @@ Nitsidika an'i **Serasera Malagasy** dia sendra azy, tsy naharitra ka niakatra n
 
 <p align="center"><img src="screenshot.png"></p>
 
-Miala any ary ny code *Rust*...
+Miala any ary ny code **Rust**...
 
 ```rust
 pub fn arb(text: &str) -> String {
