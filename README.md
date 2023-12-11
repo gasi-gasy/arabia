@@ -41,7 +41,7 @@ Marihana fa sady fanaovana _encodage_ no ampiasana koa amin'ny _décodage_ `pub 
 
 ---
 
-Farany fea koa tsy bitika infro koa ny code **D**...
+Farany nefa koa tsy bitika, indro koa ny code **D**...
 
 ```d
 import std.stdio : writeln;
