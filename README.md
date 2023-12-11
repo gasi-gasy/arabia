@@ -8,7 +8,9 @@ Nitsidika an'i **Serasera Malagasy** dia sendra azy, tsy naharitra ka niakatra n
 
 <p align="center"><img src="screenshot.png"></p>
 
+
 ---
+
 
 Miala any ary ny code **Rust**...
 
@@ -41,7 +43,9 @@ Teny adika  <<<: LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E
 ```
 Marihana fa sady fanaovana _encodage_ no ampiasana koa amin'ny _décodage_ `pub fn arb(text: &str) -> String`. Pimaso ho an'ireo namana rehetra mankafy Marika: Involution, na Fonction involutive no resaka izany 👀
 
+
 ---
+
 
 Farany nefa koa tsy bitika, indro koa ny code **D**...
 
