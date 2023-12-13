@@ -15,6 +15,6 @@ void main() {
     string str_in = "LIAHARAZA AKAHEO HEREFHA FHAFHY KY FAOKA E";
 
     writeln;
-	writeln("Teny adika  <<<: ", str_in);
+    writeln("Teny adika  <<<: ", str_in);
     writeln(">>> Dika mazava: ", arb(str_in));
 }
