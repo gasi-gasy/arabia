@@ -7,8 +7,8 @@ import std.typecons : Yes;
 string arb(string text) {
     string input  = "BDFGHJKLMNPRSTVZbdfghjklmnprstvz";
     string output = "ZVTSRPNMLKJHGFDBzvtsrpnmlkjhgfdb";
-	
-	return text.map!(c => indexOf(input, c, 1, Yes.caseSensitive) != -1 ? output[indexOf(input, c, 1, Yes.caseSensitive)] : c).text;
+    
+    return text.map!(c => indexOf(input, c, 1, Yes.caseSensitive) != -1 ? output[indexOf(input, c, 1, Yes.caseSensitive)] : c).text;
 }
 
 void main() {
