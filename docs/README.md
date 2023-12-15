@@ -80,7 +80,7 @@ Farany nefa tsy bitika, indro ny code **Delphi**...
 program DelphiArb;
 
 uses
-  SysUtils, StrUtils;
+  System.SysUtils, System.StrUtils;
 
 function Arb(const Text: string): string;
 const
